@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neurocafe-logo.png" width="180" alt="Neuro Cafe Logo">
+  <img src="photo_5886522622617521409_y-removebg-preview.png" width="180" alt="Neuro Cafe Logo">
 </p>
 
 <h1 align="center">☕ Neuro Cafe Summer School</h1>
