@@ -1,16 +1,58 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/neurocafe-logo.png" width="180" alt="Neuro Cafe Logo">
+</p>
 
-<!--
-**NeuroCafe-comm/NeuroCafe-comm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☕ Neuro Cafe Summer School</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Where minds Meet siences
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 Computational Neuroscience Summer School
+
+If you are interested in understanding the brain through data, machine learning, and modern computational tools, this program is for you.
+
+## 🧬 What You Will Learn
+
+- 🧠 **Spike Train Analysis** (Neuronal Activity)
+- ⚡ **EEG Signal Processing**
+- 🧿 **fMRI Brain Mapping**
+- 📊 **Neural Decoding** (Machine Learning for Brain Data)
+- 🧠🔗 **Brain Connectivity & Network Analysis**
+- 📐 **Representational Similarity Analysis (RSA)**
+- 🤖 **Deep Learning for Neural Data**
+- 🧠🚀 **NeuroAI** (Brain-Inspired Artificial Intelligence)
+
+---
+
+## 💻 Hands-on Experience
+
+- 🐍 Python-Based Analysis
+- 📦 Real Neural Datasets
+- 📈 Scientific Visualization
+- 🧪 Research-Oriented Workflows
+
+---
+
+## 🎯 Perfect For
+
+- 👨‍🎓 Neuroscience Students
+- 👩‍💻 Computer Science & AI Students
+- ⚡ Biomedical Engineering Students
+- 📊 Data Science Enthusiasts
+- 🧠 Anyone Curious About the Brain
+
+---
+
+## 🌍 Learning Journey
+
+```text
+🧠 Neural Signals
+        ↓
+📊 Data Analysis
+        ↓
+🧠 Cognitive Modeling
+        ↓
+🤖 Artificial Intelligence
